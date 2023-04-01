@@ -2,13 +2,18 @@
 body{
 	background-color: #cccccc;
 }
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration-line: none;
+	color: black;
+}
 header,h2{
 	text-align:center;
 }
-.player_one{
+.player_one,.player_two{
 	background-color: #fff;
-}
-.player_two{
-	background-color: #fff;
-	
+	border-radius: 5px;
+	border: 1px solid #5D5C5D;
 }
