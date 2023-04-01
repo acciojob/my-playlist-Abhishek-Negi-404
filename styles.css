@@ -12,8 +12,17 @@ a{
 header,h2{
 	text-align:center;
 }
-.player_one,.player_two{
+.player_one{
 	background-color: #fff;
 	border-radius: 5px;
 	border: 1px solid #5D5C5D;
+}
+.player_two{
+	background-color: #fff;
+	border-radius: 5px;
+	border: 1px solid #5D5C5D;
+/* 	display: flex;
+	align-items: center;
+	justify-content: center */
+/* 	margin: 0 auto; */
 }
